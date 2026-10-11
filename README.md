@@ -1,10 +1,23 @@
 <div align="center">
-  <h1>Hi there, I'm Phi Hoang Diep Nguyen</h1>
-  <img src=".\assets\cat.gif" alt="Coding GIF" width="120" />
-  <h3>Full-stack Software Engineer</h3>
-  
-  <p><i>Experienced in building SaaS systems and working with international teams. I focus on optimizing system performance and continuous self-improvement.</i></p>
+  <h1>Hi there, I'm Nguyễn Hoàng Diệp Phi</h1>
+  <p><b>Phi Nguyen · phinhd</b></p>
+  <img src="./assets/cat.gif" alt="Coding GIF" width="120" />
+  <h3>Software Engineer · .NET Backend</h3>
+
+  <p><i>Software Engineer in Ho Chi Minh City building production systems for SaaS, CRM, healthcare and e-commerce. I focus on .NET backends with ASP.NET Core, Clean Architecture, CQRS/MediatR and Domain-Driven Design.</i></p>
+
+  <p>
+    <a href="https://phinhd.site/"><img src="https://img.shields.io/badge/Portfolio-phinhd.site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://about.phinhd.site/"><img src="https://img.shields.io/badge/Blog-about.phinhd.site-4B5563?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" /></a>
+    <a href="https://www.linkedin.com/in/phinhd"><img src="https://img.shields.io/badge/LinkedIn-phinhd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:phinhd.work@gmail.com"><img src="https://img.shields.io/badge/Email-phinhd.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 </div>
+
+### Featured Projects
+
+- **[Modular Monolith .NET Template](https://github.com/phinhd/net-modular-template)** — Clean Architecture per module, isolated DbContext and schema per module, JWT auth, unit tests
+- **[E-Commerce API](https://github.com/phinhd/ecommerce-domain-driven-design)** — .NET 10, EF Core, PostgreSQL, JWT refresh-token rotation, Docker Compose, React 19 front end
 
 ### Tech Stack & Tools
 
